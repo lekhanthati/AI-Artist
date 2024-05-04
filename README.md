@@ -8,7 +8,8 @@ Devlop an advaced algorithm that is able to generate human faces without any hel
 
 Here are the outputs form the combined model at different epochs.
 
-![Screenshot 2024-04-12 194444](https://github.com/lekhanthati/AI-Artist/assets/153913544/f5334f08-73a6-4693-8ffe-7c76a6b0a9ec)
+![Screenshot 2024-05-05 005433](https://github.com/lekhanthati/AI-Artist/assets/153913544/fd659794-9462-4993-97bf-50415d697186)
+
 
 
 ## Working with Image data 
