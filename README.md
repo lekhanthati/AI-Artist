@@ -12,7 +12,8 @@ When it comes to image data, Machine Learning Algorithms can directly interpret 
 Today we are checking out application of Generative AI with image data. There are to parts for the algorithm 
 1)	Generator
 2)	Discriminator
-The details are mentioned below
+
+And the netowork is known as Generative Adverseral Networks (GAN's)
 
 
 ## Generator 
