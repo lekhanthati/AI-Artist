@@ -10,6 +10,9 @@ Here are the outputs form the combined model at different epochs.
 
 ![Screenshot 2024-05-05 005433](https://github.com/lekhanthati/AI-Artist/assets/153913544/fd659794-9462-4993-97bf-50415d697186)
 
+## Dataset
+
+https://www.kaggle.com/datasets/ashwingupta3012/human-faces
 
 
 ## Working with Image data 
