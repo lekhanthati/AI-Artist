@@ -18,6 +18,12 @@ And the netowork is known as Generative Adverseral Networks (GAN's)
 
 ## Generator 
 
+
+1)	The generator takes random noise vector as input 
+2)	And passed through multiple hidden layers 
+3)	And the output is generated as per the training process like Image, text or number
+
+
 ## Discriminator 
 
 ## Steps 
